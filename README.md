@@ -18,7 +18,7 @@ using modern VueJS 3 Framework.
 
 ## Interface
 
-![Interface showcase]([https://github.com/alikhanturusbekov/vue-countries/blob/main/interface.png?raw=true])
+![Interface showcase](https://github.com/alikhanturusbekov/vue-countries/blob/main/interface.png?raw=true)
 
 ## Project Setup
 
